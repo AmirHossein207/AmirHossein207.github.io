@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Saeed Masroor"
+title                    : "Amirhossein Masroor"
 title_separator          : "-"
-name                     : &name "Saeed Masroor"
+name                     : &name "Amirhossein Masroor"
 description              : &description "personal description"
-url                      : https://mrSaeedM.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://AmirHossein207.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/mrSaeedM/mrSaeedM.github.io"
+repository               : "https://github.com/AmirHossein207/AmirHossein207.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Saeed Masroor"
-  avatar           : "SMasroor.jpg"
-  bio              : "Data-driven mathematician, Mitochondriac"
+  name             : "AmirHossein207 Masroor"
+  avatar           : "AMasroor.jpg"
+  bio              : "Student pursuing bioinformatics, metabolic engineering, and computational science"
   location         : #""
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=NGTF3vsAAAAJ&hl=en"
+  googlescholar    : #""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mrSaeedM"
+  github           : "AmirHossein207"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sdmasr"
+  twitter          : #""
   vine             :
   weibo            :
   xing             :
